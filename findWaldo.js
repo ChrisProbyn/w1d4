@@ -1,5 +1,5 @@
 function findWaldo(arr, found) {
-      var i = 0;
+
       arr.forEach( function (element,index){
         //console.log(element, index);
           if (element === "Waldo") {
